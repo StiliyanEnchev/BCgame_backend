@@ -22,3 +22,17 @@ The game is a number-guessing puzzle:
 
 - **Windows OS** (the provided `.exe` is for Windows).  
 - No Python installation is required for the executable.  
+
+## Optional - Running with Python
+
+1. Clone the repository:
+
+    `git clone https://github.com/StiliyanEnchev/BCgame_backend.git`
+
+    `cd BCgame_backend`
+
+2. Run the backend:
+
+    `python backend.py`
+
+The game will start in the terminal, and you can play by following the prompts.
